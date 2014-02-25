@@ -1,11 +1,3 @@
-//
-//  CAAnimation+Blocks.m
-//  CAAnimationBlocks
-//
-//  Created by xissburg on 7/7/11.
-//  Copyright 2011 xissburg. All rights reserved.
-//
-
 #import "CAAnimation+Blocks.h"
 #import <objc/runtime.h>
 
@@ -43,13 +35,13 @@
 #pragma mark -
 #pragma mark - CAAnimation
 
-@interface CAAnimation (BlocksAdditionPrivate)
+@interface CAAnimation (BlocksPrivate)
 
 @property (nonatomic, strong, readonly) CAAnimationDelegate *animationDelegate;
 
 @end
 
-@implementation CAAnimation (BlocksAddition)
+@implementation CAAnimation (Blocks)
 
 #pragma mark - private
 

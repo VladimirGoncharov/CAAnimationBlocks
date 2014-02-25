@@ -1,7 +1,3 @@
-//
-// Prefix header for all source files of the 'CAAnimationBlocksTests' target in the 'CAAnimationBlocksTests' project
-//
-
 #ifdef __OBJC__
     #import <UIKit/UIKit.h>
 #endif

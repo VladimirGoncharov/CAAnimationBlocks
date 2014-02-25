@@ -1,11 +1,3 @@
-//
-//  RootViewController.m
-//  RootViewController
-//
-//  Created by xissburg on 7/16/11.
-//  Copyright 2011 xissburg. All rights reserved.
-//
-
 #import "RootViewController.h"
 #import "CAAnimation+Blocks.h"
 

@@ -1,11 +1,3 @@
-//
-//  CAAnimationBlocksTests.m
-//  CAAnimationBlocksTests
-//
-//  Created by xissburg on 7/16/11.
-//  Copyright 2011 __MyCompanyName__. All rights reserved.
-//
-
 #import "CAAnimationBlocksTests.h"
 
 
